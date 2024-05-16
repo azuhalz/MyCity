@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="city_name">Nama Kota</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Kota Bandung</item>
+        <item>Kota Jakarta</item>
+        <item>Kota Jayapura</item>
+        <item>Kota Malang</item>
+        <item>Kota Medan</item>
+        <item>Kota Palembang</item>
+        <item>Kota Pontianak</item>
+        <item>Kota Semarang</item>
+        <item>Kota Surabaya</item>
+        <item>Kota Yogyakarta</item>
+    </string-array>
+    <string-array name="data_tahun">
+        <item>25 September 1810</item>
+        <item>22 Juni 1527</item>
+        <item>7 Maret 1910</item>
+        <item>01 April 1914</item>
+        <item>1 Juli 1590</item>
+        <item>17 Juni 683</item>
+        <item>23 Oktober 1771</item>
+        <item>2 Mei 1547</item>
+        <item>31 Mei 1293</item>
+        <item>7 Oktober 1756</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Kota Bandung adalah ibu kota Provinsi Jawa Barat yang sekaligus menjadi pusat pemerintahan dan perekonomian dari Provinsi Jawa Barat, Indonesia. Kota Bandung juga merupakan kota terbesar ketiga di Indonesia setelah Jakarta dan Surabaya. Bandung merupakan kota terpadat kedua di Indonesia setelah Jakarta dengan kepadatan mencapai 15.051 jiwa/km2. Terletak 140 km di sebelah tenggara Jakarta, Bandung merupakan kota terbesar di bagian selatan pulau Jawa. Bandung merupakan bagian dari Cekungan Bandung (Bandung Raya), kawasan metropolitan terbesar ketiga di Indonesia setelah Jabodetabek dan Surabaya Metropolitan Area. Kota Bandung berbatasan langsung dengan Cimahi dan Kabupaten Bandung Barat di sisi barat dan utara;Kabupaten Bandung di sisi timur dan selatan</item>
+        <item>Jakarta atau secara resmi bernama Daerah Khusus Ibukota Jakarta (disingkat DKI Jakarta) adalah ibu kota negara dan kota terbesar di Indonesia. Menurut sistem pembagian administratif Indonesia, Jakarta merupakan provinsi dengan status daerah khusus. Sementara menurut pengertian secara umum, Jakarta merupakan kota metropolitan. Jakarta terletak di pesisir bagian barat laut Pulau Jawa. Dahulu pernah dikenal dengan beberapa nama di antaranya Sunda Kelapa, Jayakarta, dan Batavia. Jakarta juga mempunyai julukan The Big Durian karena dianggap kota yang sebanding New York City (Big Apple) di Indonesia.[9]Jakarta memiliki luas sekitar 664,01 km² (lautan: 6.977,5 km²), dengan penduduk berjumlah 10.562.088 jiwa (2020).[3] Wilayah metropolitan Jakarta (Jabodetabek) yang berpenduduk sekitar 28 juta jiwa.</item>
+        <item>Kota Jayapura adalah sebuah kota dan juga ibu kota dari provinsi Papua, Indonesia. Kota ini merupakan ibu kota provinsi yang terletak paling Timur di Indonesia, dan berbatasan langsung dengan negara tetangga Papua Nugini, yang terletak di teluk Jayapura. Kota ini didirikan oleh Kapten Infanteri F.J.P. Sachse dari kerajaan Belanda pada 7 Maret 1910. Dari tahun 1910 ke 1962, kota ini dikenal sebagai Hollandia merupakan ibu kota distrik dengan nama yang sama di timur laut pulau Papua bagian barat.Kota ini sempat disebut Kota Baru dan Sukarnopura (Sukarnapura, 1964) sebelum menyandang nama yang sekarang pada tahun 1968.[8] Pada pertengahan tahun 2021, jumlah penduduk kota Jayapura sebanyak 362.998 jiwa.</item>
+        <item>Kota Malang (Jawa: Malang; Madura: Malang; Osob Kiwalan: Ngalam) adalah sebuah kota yang terletak di provinsi Jawa Timur, Indonesia,[5] Kota terbesar kedua di Jawa Timur setelah Surabaya, dan kota terbesar ke-12 di Indonesia.[6] Kota ini didirikan pada masa Pemerintahan Belanda pada tanggal 1 April 1914 dengan E.K Broeveldt sebagai wali kota pertama. Kota ini terletak di dataran tinggi seluas 145,28 km²[7] yang merupakan enklave Kabupaten Malang.[8] Bersama dengan Kota Batu dan Kabupaten Malang, Kota Malang merupakan bagian dari kesatuan wilayah yang dikenal dengan Malang Raya. Kota Malang dikenal baik sebagai kota pendidikan. Kota ini memiliki berbagai perguruan tinggi terbaik seperti Universitas Brawijaya,[9] Universitas Negeri Malang,[9] UIN Maulana Malik Ibrahim Malang, dan Politeknik Negeri Malang. Selain itu, kota ini merupakan kota pariwisata karena alamnya yang menawan yang dikelilingi oleh pegunungan[10] dan udaranya yang cenderung sejuk.[11] Malang juga terkenal sebagai kota bunga karena banyaknya bunga yang menghiasi kota.[12] Kota Malang dikenal sebagai kota seni[13] karena banyaknya kesenian khas dari kota ini, mulai dari tarian hingga pertunjukan, seperti Tari Topeng Malang.</item>
+        <item>Medan adalah ibu kota Provinsi Sumatra Utara, Indonesia. Kota ini merupakan kota terbesar keempat di Indonesia setelah DKI Jakarta, Surabaya, dan Bandung, serta kota terbesar di luar Pulau Jawa, sekaligus terbesar di Pulau Sumatra.[4][10][11] Kota Medan merupakan pintu gerbang wilayah Indonesia bagian barat dengan keberadaan Pelabuhan Belawan dan Bandar Udara Internasional Kualanamu yang merupakan bandara terbesar kedua di Indonesia. Akses dari pusat kota menuju pelabuhan dan bandara dilengkapi oleh jalan tol dan kereta api. Medan adalah kota pertama di Indonesia yang mengintegrasikan bandara dengan kereta api. Berbatasan dengan Selat Malaka, Medan menjadi kota perdagangan, industri, dan bisnis yang sangat penting di Indonesia. Pada tahun 2020, Kota Medan memiliki penduduk sebanyak 2.435.252 jiwa, dan kepadatan penduduk 9.522,22 jiwa/km2.</item>
+        <item>Palembang adalah ibu kota provinsi Sumatra Selatan, Indonesia. Kota dengan luas wilayah 400,61 km²[4] ini dihuni oleh lebih dari 1,7 juta penduduk pada tahun Juni 2022.[5] Kota Palembang juga kota terpadat dan terbesar kedua di Sumatra setelah Kota Medan, kota terpadat kelima di Indonesia setelah Jakarta Raya, Surabaya, Bandung, serta Medan, dan kota terbesar kesembilan belas di Asia Tenggara. Kota Palembang dan beberapa kabupaten tetangganya (Kabupaten Banyuasin, Kabupaten Ogan Ilir, dan Kabupaten Ogan Komering Ilir) dikembangkan oleh pemerintah pusat sebagai wilayah metropolitan di Indonesia dengan kawasan yang disebut Patungraya Agung atau Palembang Raya. Sejarah Palembang yang pernah menjadi ibu kota kerajaan bahari Buddha terbesar di Asia Tenggara pada saat itu, Kedatuan Sriwijaya, yang mendominasi Nusantara dan Semenanjung Malaya pada abad ke-9 juga membuat kota ini dikenal dengan julukan "Bumi Sriwijaya". Berdasarkan prasasti Kedukan Bukit yang ditemukan di Bukit Siguntang sebelah barat Kota Palembang yang menyatakan pembentukan sebuah wanua yang ditafsirkan sebagai kota pada tanggal 16 Juni 683 Masehi menjadikan kota Palembang sebagai kota tertua di Indonesia. Di dunia Barat, kota Palembang juga dijuluki Venice of the East ("Venesia dari Timur").</item>
+        <item>Pontianak adalah ibu kota Provinsi Kalimantan Barat, Indonesia yang sekaligus menjadi pusat pemerintahan dan perekonomian dari Provinsi Kalimantan Barat. Kota ini didirikan pertama kali sebagai pelabuhan perdagangan di pulau Kalimantan, menempati area seluas 118,31 km² di delta Sungai Kapuas pada titik di mana ia bergabung dengan anak sungai utamanya. , Sungai Landak. Kota ini berada di garis khatulistiwa, sehingga dikenal luas sebagai Kota Khatulistiwa (Kota Khatulistiwa). Pusat kota kurang dari 3 km selatan khatulistiwa. Pontianak adalah kota terpadat ke-26 di Indonesia, dan kota terpadat kelima di pulau Kalimantan (Borneo) setelah Samarinda, Balikpapan, Kuching dan Banjarmasin. Itu memiliki populasi 672.440 pada Sensus 2021 di dalam batas kota, dengan pinggiran kota yang signifikan di luar batas itu. Kota Pontianak dilalui oleh Sungai Kapuas dan Sungai Landak. Kedua sungai itu diabadikan dalam lambang Kota Pontianak. Kota ini memiliki luas wilayah 107,82 km2, dan penduduk tahun 2021 berjumlah 672.440 jiwa.</item>
+        <item>Semarang adalah ibu kota Provinsi Jawa Tengah, Indonesia yang sekaligus menjadi pusat pemerintahan dan perekonomian dari Provinsi Jawa Tengah, Indonesia. Kota ini adalah kota metropolitan terbesar keenam di Indonesia setelah Jakarta, Surabaya, Bandung, Medan, dan Palembang. Sebagai salah satu kota yang berkembang di Pulau Jawa, Kota Semarang mempunyai jumlah penduduk sekitar 1,6 juta jiwa.[3] Kawasan mega-urban Semarang yang tergabung dalam wilayah metropolitan Kedungsepur (Kabupaten Kendal, Kabupaten Demak, Ungaran Kabupaten Semarang, Kota Salatiga, Kota Semarang, dan Purwodadi Kabupaten Grobogan) berpenduduk mencapai 7,3 juta jiwa, sekaligus sebagai wilayah metropolitan berpenduduk terbanyak keempat di Indonesia, setelah Jabodetabek (Jakarta), Gerbangkertosusilo (Surabaya), dan Bandung Raya. Dalam beberapa tahun terakhir, perkembangan Semarang yang signifikan ditandai pula dengan munculnya beberapa gedung pencakar langit yang tersebar di penjuru kota dan penataan kota dengan dibangunnya tempat-tempat ramah pejalan kaki. Perkembangan regional ini menunjukan peran strategis Kota Semarang terhadap roda perekonomian nasional.</item>
+        <item>Kota Surabaya adalah ibu kota Provinsi Jawa Timur yang menjadi pusat pemerintahan dan perekonomian dari Provinsi Jawa Timur sekaligus kota terbesar di provinsi tersebut. Surabaya juga merupakan sebuah kota yang terletak di Provinsi Jawa Timur, Indonesia. Surabaya merupakan kota terbesar kedua di Indonesia setelah Kota Jakarta. Kota ini terletak 800 km sebelah timur Jakarta, atau 435 km sebelah barat laut Denpasar, Bali. Letak kota ini berada di pantai utara Pulau Jawa bagian timur yang berhadapan dengan Selat Madura serta Laut Jawa.</item>
+        <item>Yogyakarta atau dikenal oleh masyarakat setempat dengan sebutan nama Yogya atau Jogja) adalah ibu kota sekaligus pusat pemerintahan dan perekonomian dari Daerah Istimewa Yogyakarta, Indonesia. Kota ini adalah kota besar yang mempertahankan konsep tradisional dan budaya Jawa. Salah satu kemantren di Yogyakarta, yaitu Kotagede pernah menjadi pusat Kesultanan Mataram antara kurun tahun 1575–1640. Kini, Yogyakarta menjadi tempat tinggal dua penerus Mataram, yakni Sultan Hamengkubuwana dan Adipati Paku Alam, yang berada di Keraton Ngayogyakarta dan Pura Pakualaman.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/kota_bandung</item>
+        <item>@drawable/kota_jakarta</item>
+        <item>@drawable/kota_jayapura</item>
+        <item>@drawable/kota_malang</item>
+        <item>@drawable/kota_medan</item>
+        <item>@drawable/kota_palembang</item>
+        <item>@drawable/kota_pontianak</item>
+        <item>@drawable/kota_semarang</item>
+        <item>@drawable/kota_surabaya</item>
+        <item>@drawable/kota_yogyakarta</item>
+    </integer-array>
+</resources>
